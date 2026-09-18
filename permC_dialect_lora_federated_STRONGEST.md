@@ -1,4 +1,4 @@
-# Permutation C: Dialect LoRA + Federated Updates
+# Permutation C: Dialect LoRA + Federated Updates [Novelty: STRONGEST]
 
 **Working Title:** "Storage-Efficient Dialect Robustness for Marathi ASR via Federated Low-Rank Adapters"
 

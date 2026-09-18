@@ -1,4 +1,4 @@
-# Paper 1: Language-Specialized Compression + Adaptive-Compute Decoding
+# Paper 1: Language-Specialized Compression + Adaptive-Compute Decoding [Novelty: STRONG]
 
 **Working Title:** "Language-Specialized Compression and Adaptive-Compute Decoding for Low-Resource Marathi ASR on Resource-Constrained Hardware"
 

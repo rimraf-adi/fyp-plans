@@ -1,4 +1,4 @@
-# Permutation F: Foundational Resource / Benchmark Paper
+# Permutation F: Foundational Resource / Benchmark Paper [Novelty: MEDIUM]
 
 **Working Title:** "A Regionally-Annotated Marathi ASR Benchmark for Dialect and Resource-Constrained Evaluation"
 

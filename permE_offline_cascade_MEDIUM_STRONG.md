@@ -1,4 +1,4 @@
-# Permutation E: Fully-Offline Cascade Architecture
+# Permutation E: Fully-Offline Cascade Architecture [Novelty: MEDIUM-STRONG]
 
 **Working Title:** "A Fully-Offline Cascade Architecture for Connectivity-Constrained Marathi ASR"
 

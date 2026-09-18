@@ -1,4 +1,4 @@
-# Permutation D: Systems/Runtime — Residency, Paging, Thermal Scheduling
+# Permutation D: Systems/Runtime — Residency, Paging, Thermal Scheduling [Novelty: MEDIUM]
 
 **Working Title:** "Resource-Adaptive Runtime Management for On-Device Speech Recognition: Residency, Paging, and Thermal-Aware Scheduling"
 

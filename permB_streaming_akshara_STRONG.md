@@ -1,4 +1,4 @@
-# Permutation B: Content-Adaptive Streaming ASR
+# Permutation B: Content-Adaptive Streaming ASR [Novelty: STRONG]
 
 **Working Title:** "Content-Adaptive Streaming ASR for a Morphologically Rich, Code-Mixed Language: Akshara-Level Emission and Ambiguity-Driven Look-ahead for Marathi"
 
